@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Restful Service",
   "main": "index.js",
-  "repository": "git",
+  "repository": "git@github.com:congdinh/restful-service.git",
   "author": "Antoni D",
   "license": "MIT",
   "private": true,
